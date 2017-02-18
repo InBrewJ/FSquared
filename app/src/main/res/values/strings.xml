@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">FSquared</string>
+    <string name="edit_message">Mensaje Aqui</string>
+    <string name="button_send">Sendio</string>
 </resources>
